@@ -257,3 +257,4 @@ C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\Test
 C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\TestProject3\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TestProject3
 C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\TestProject3\bin\Debug\net9.0\ClassLibrary1.dll
 C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\TestProject3\bin\Debug\net9.0\ClassLibrary1.pdb
+C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\TestProject3\obj\Debug\net9.0\TestProject3.sourcelink.json
