@@ -1,0 +1,16 @@
+2025-04-15T11:13:39.9137405+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-04-15T11:13:39.9321703+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-04-15T11:13:39.9338972+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-04-15T11:13:39.9339074+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 11:13:39.883
+2025-04-15T11:13:39.9359867+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 4124
+2025-04-15T11:13:39.9360349+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.4
+2025-04-15T11:13:39.9360537+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.4\System.Private.CoreLib.dll
+2025-04-15T11:13:39.9360812+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-04-15T11:13:39.9360838+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\TestProject3\bin\Debug\net9.0\TestProject3.dll
+2025-04-15T11:13:39.9362324+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\TestProject3\bin\Debug\net9.0\Log --results-directory C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\TestResults --client-port 62011'
+2025-04-15T11:13:39.9379399+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-04-15T11:13:39.9689123+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-04-15T11:13:39.9731140+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\TestProject3\bin\Debug\net9.0\TestProject3.testconfig.json' not found.
+2025-04-15T11:13:39.9746791+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-04-15T11:13:40.1414001+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTest.Sdk' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-04-15T11:13:40.2711335+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Включена параллелизация тестов для C:\Users\cybersj\Desktop\папа\академия ИТ\ASP.NET\ConsoleApp1\TestProject3\bin\Debug\net9.0\TestProject3.dll (рабочие роли: 16, область: MethodLevel)
